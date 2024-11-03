@@ -1,4 +1,4 @@
-package com.concurrency.baics;
+package com.concurrency.basics;
 
 public class ThreadBasics {
     public static void main(String[] args) {
